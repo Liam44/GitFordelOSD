@@ -15,7 +15,7 @@ namespace GitForelOSD
            /// 
         static void Main(string[] args)
         {
-            Console.WriteLine("TEst");
+            Console.WriteLine("TEst"); // Tjohoohoh
             Console.ReadKey();
         }
     }
