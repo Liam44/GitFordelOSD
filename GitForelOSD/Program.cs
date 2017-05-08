@@ -15,6 +15,7 @@ namespace GitForelOSD
         /// 
         static void Main(string[] args)
         {
+            Console.WriteLine("Test"); // Changed TEst to Test
 <<<<<<< HEAD
             Console.WriteLine("TEst"); // Tjohoohoh
 =======
